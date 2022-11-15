@@ -1,2 +1,1 @@
-# ml_2022-project
-Machine Learning (UT2022) Project - Classification of Tartu's street network (P14)
+The goal of the project is to classify the Tartu City Government road dataset into 5 hierarchical categories, based on various parameters - width, speed limit, cover, etc. Required data is provided in the given data layer or can be obtained from orthophotos with image recognition.
